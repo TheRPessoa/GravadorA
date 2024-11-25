@@ -90,6 +90,4 @@
             android:text="Gravações" />
     </LinearLayout>
 
-    <!-- ... (Restante do código - AudioVisualizer, Cronômetro, Botões de Navegação) ... -->
-
 </androidx.constraintlayout.widget.ConstraintLayout>
