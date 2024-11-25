@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GravadorA</string>
+    <string name="instrucao">Aperte no botão abaixo para começar a gravar</string>
+    <string name="settings">Configurações</string>
+    <string name="record">Iniciar</string>
+    <string name="pause">Pausar</string>
+</resources>
